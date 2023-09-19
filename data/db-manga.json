@@ -1,0 +1,131 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "usuario": "John Doe",
+        "email": "john.due@gmail.com"
+      }
+    ],
+    "heroes": [
+      {
+        "id": "sh-naruto",
+        "superhero": "Naruto",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Uzumaki Naruto",
+        "first_appearance": "Naruto #1",
+        "characters": "Uzumaki Naruto"
+      },
+      {
+        "id": "sh-luffy",
+        "superhero": "Luffy",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Monkey D Luffy",
+        "first_appearance": "One Piece #1",
+        "characters": "Luffy"
+      },
+      {
+        "id": "sn-guts",
+        "superhero": "Guts",
+        "publisher": "Seinen Comic",
+        "alter_ego": "Berserk",
+        "first_appearance": "Berserk #1",
+        "characters": "Guts, Gatsu, Berserk Armor"
+      },
+      {
+        "id": "sn-thorfinn",
+        "superhero": "Thorfinn",
+        "publisher": "Seinen Comic",
+        "alter_ego": "Thorfin Karlsefni",
+        "first_appearance": "Vinland Saga #1",
+        "characters": "Thorfinn"
+      },
+      {
+        "id": "sh-edward",
+        "superhero": "Edward Elric",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Full metal alchemist",
+        "first_appearance": "Full metal alchemist #1",
+        "characters": "Edward Elric"
+      },
+      {
+        "id": "sn-spike",
+        "superhero": "Spike Spiegel",
+        "publisher": "Seinen Comic",
+        "alter_ego": "Spike",
+        "first_appearance": "Cowboy Bebop #1",
+        "characters": "Spike Spiegel"
+      },
+      {
+        "id": "sh-kenshin",
+        "superhero": "Rurouni Kenshin",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Battosai the butcher",
+        "first_appearance": "Kenshin #1",
+        "characters": "Martian Manhunter"
+      },
+      {
+        "id": "sh-tanjiro",
+        "superhero": "Kamado Tanjiro",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Fire Pilar",
+        "first_appearance": "Kimetsu no yaiba #1",
+        "characters": "Kamado Tanjiro"
+      },
+      {
+        "id": "sh-levi",
+        "superhero": "Levi Ackerman",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Lt Levi",
+        "first_appearance": "Shingeki no kyojin #54",
+        "characters": "Levi Ackerman, Lt Levi"
+      },
+      {
+        "id": "sh-gojo",
+        "superhero": "Satoru Gojo",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Gojo",
+        "first_appearance": "Jujutsu Kaisen #1",
+        "characters": "Satoru Gojo, Infinite Eyes"
+      },
+      {
+        "id": "sh-gon",
+        "superhero": "Gon",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Gon Freecs",
+        "first_appearance": "Hunter x Hunter #15",
+        "characters": "Gon Freecs"
+      },
+      {
+        "id": "sh-saitama",
+        "superhero": "Calvo con capa",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Saitama",
+        "first_appearance": "One punch man #1",
+        "characters": "Saitama, Calvo"
+      },
+      {
+        "id": "sh-denji",
+        "superhero": "Chainsaw Man",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Denji",
+        "first_appearance": "Chainsaw Man #39",
+        "characters": "Denji"
+      },
+      {
+        "id": "sh-gabimaru",
+        "superhero": "The void",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Gabimaru",
+        "first_appearance": "Jigokuraku #83",
+        "characters": "Gabimaru, The void"
+      },
+      {
+        "id": "id-shinra",
+        "superhero": "Shinra",
+        "publisher": "Shonen Jump",
+        "alter_ego": "Shinra Kusakabe",
+        "first_appearance": "Fireforce #1",
+        "characters": "Shinra Kusakabe"
+      }
+    ]
+  }
