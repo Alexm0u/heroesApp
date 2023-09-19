@@ -1,6 +1,6 @@
 // URL fictícea de producción 
 
-export const environment = {
+export const environments = {
     baseUrl: 'http://alexmou.com/api'
 
 }
