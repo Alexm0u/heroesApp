@@ -27,4 +27,8 @@ export class NewPageComponent {
     { id: 'Shonen', desc: 'Shonen jump'}
   ] 
 
+  onSubmit():void {
+    
+  }
+
 }
