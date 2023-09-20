@@ -11,8 +11,8 @@ export class NewPageComponent {
   public publishers = [
     { id: 'DC Comics', desc: 'DC - Comics'},
     { id: 'MARVEL Comics', desc: 'Marvel - Comics'},
-    // { id: 'Seinen', desc: 'Seinen comic'},
-    // { id: 'Shonen', desc: 'Shonen jump'}
-  ]
+    { id: 'Seinen', desc: 'Seinen comic'},
+    { id: 'Shonen', desc: 'Shonen jump'}
+  ] 
 
 }
