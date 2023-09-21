@@ -27,4 +27,9 @@ login(email: string , password: string):Observable<User> {
 
 }
 
+logout(){
+    this.user = undefined;
+    localStorage.clear();
+}
+
 } 
