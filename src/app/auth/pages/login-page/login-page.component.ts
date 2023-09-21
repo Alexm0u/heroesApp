@@ -13,13 +13,17 @@ export class LoginPageComponent {
   constructor(
     private authService: AuthService,
     private router: Router
-    ){}
+  ){}
 
-  onLogin():void {
-    this.authService.login('alex@gmail.com', '123456')
-      .subscribe(user => {
+  onLogin(): void {
+
+    this.authService.login('alex@gmail.com','123456')
+      .subscribe( user => {
+
         this.router.navigate(['/']);
-      })
+
+      });
+
   }
 
 }
